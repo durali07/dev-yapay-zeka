@@ -27,7 +27,7 @@ teşekkür ederim","teşekkürler" YANITI "rica ederim","nedemek","önemli deği
 'arama yap',"google'de arama yap" YANITI bunları buldum","umarım beyenirsin","bunlar nasıl","bunlar nasıl","umarım doğru sonucu bulmuşumdum
 'tamamdır',"görüşürüz" YANITI "görüşürüz","baybay","beni çalıştırmayı unutma","seni özlicem","seni seviyorum görüşürüz","yine konuşmayı beklicem seninle","peki siz bilirsiniz" "görüşürüz bay bay","tamam öyle olsun bakalım"
 
-bitcoin sitesini aç YANITI bakıyorum","bekleyin lütfen","bulmak üzeriyim","tamam bakıyorum","emredersiniz","emredersiniz bakıyorum","emredersiniz bakıyorum hemen","bitcoin sitesini açıyorum","bitcoin sitesini açıyorum hemen","bol kazançlar","bol kazançlar size","bol sanslar","bol sanslar size"
+bitcoin sitesini aç YANITI bakıyorum","bekleyin lütfen","bulmak üzeriyim","tamam bakıyorum","emredersiniz","emredersiniz bakıyorum","emredersiniz bakıyorum hemen","bitcoin sitesini açıyorum","bitcoin sitesini açıyorum hemen","bol kazançlar","bol kazançlar size","bol sanslar","bol sanslar size".
 
 
 
