@@ -40,5 +40,5 @@ whatsapp mesaj gönder,whatsapp'tan mesaj gönder
 
 "Twitch chat" "Twitch chat oku" 
 
-"kilidi kır" YANITI "tamam kilidi kırıyorum"(akılı tahta kilidi{fatih projesi})
+["kilidi kır" YANITI "tamam kilidi kırıyorum"(akılı tahta kilidi{fatih projesi})]
 
